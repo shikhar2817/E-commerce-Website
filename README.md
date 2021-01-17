@@ -1,6 +1,6 @@
 # E-commerce-Website
 
-This is A Static E commerce website
+This is a Static E-commerce page
 
 Frame work and Languages :
   * HTML
